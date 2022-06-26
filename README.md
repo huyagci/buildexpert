@@ -35,6 +35,7 @@
    - [Parameters](#parameters)
 5. [Technologies](#computer-technologies)
 6. [Directories](#open_file_folder-directories)
+7. [Submitted Assignment](#floppydisk-submitted-assignment)
 
 ### :notebook_with_decorative_cover: **Overview**
 
@@ -135,6 +136,10 @@ Scripts             : /opt/scripts
 Project Samples     : /mnt/project
 ```
 
+### :floppy_disk: **Submitted Assignment**
+
+_You may check out the submitted version of this project [here][@og-repo]._
+
 <!-- View Counter -->
 <p align="right"><img src="https://komarev.com/ghpvc/?username=week-2-assignment-huyagci&style=flat&label=Views&color=blue" alt="View Counter"></a></p>
 
@@ -160,3 +165,7 @@ Project Samples     : /mnt/project
 [@virtualbox]: https://www.virtualbox.org/
 [@vagrant]: https://www.vagrantup.com/
 [@vagrant-download]: https://www.vagrantup.com/downloads/
+
+<!-- Original Assignment -->
+
+[@og-repo]: https://github.com/Protein-DevOps-Engineer-Bootcamp/2-hafta-odev-1-git-huyagci
