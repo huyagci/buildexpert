@@ -1,6 +1,8 @@
 # Project Files
 .vagrant/
 
+#Images
+*.png
 
 # Aux files
 *.psd
