@@ -54,7 +54,7 @@ This repository contains an assignment project developed under the [Patika.dev][
 
 &nbsp;
 
-<p align="center"><img src="./res/img/gitbuddy.png" alt="View Counter"></a></p>
+<p align="center"><img src="./res/img/gitbuddy.png" alt="Git Buddy Branding Image"></a></p>
 
 #### _Git Buddy_
 
@@ -65,7 +65,7 @@ This repository contains an assignment project developed under the [Patika.dev][
 
 &nbsp;
 
-<p align="center"><img src="./res/img/buildexpert.png" alt="View Counter"></a></p>
+<p align="center"><img src="./res/img/buildexpert.png" alt="Build Expert Branding Image"></a></p>
 
 #### _Build Expert_
 
