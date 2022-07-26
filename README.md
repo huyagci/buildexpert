@@ -23,25 +23,25 @@
 
 ### :open_book: **Table of Contents**
 
-1. [Overview](#notebook_with_decorative_cover-overview)
-2. [Features](#sparkles-features)
+1. [Overview](#notebook_with_decorative_cover-overview-)
+2. [Features](#sparkles-features-)
    - [Bootstrapper](#bootstrapper)
    - [Git Buddy](#git-buddy)
    - [Build Expert](#build-expert)
-3. [Installation](#gear-installation)
+3. [Installation](#gear-installation-)
    - [Automated](#automated)
    - [Manual](#manual)
-4. [Usage](#wrench-usage)
+4. [Usage](#wrench-usage-)
    - [Parameters](#parameters)
-5. [Technologies](#computer-technologies)
-6. [Directories](#open_file_folder-directories)
-7. [Submitted Assignment](#floppy_disk-submitted-assignment)
+5. [Technologies](#computer-technologies-)
+6. [Directories](#open_file_folder-directories-)
+7. [Submitted Assignment](#floppy_disk-submitted-assignment-)
 
-### :notebook_with_decorative_cover: **Overview**
+### :notebook_with_decorative_cover: **Overview** [🔝](#open_book-table-of-contents)
 
 This repository contains an assignment project developed under the [Patika.dev][@patika] & [Protein][@protein] DevOps Engineer Bootcamp. **Bootstrapper** is an initializer script that sets up the machine as instructed. `Git Buddy` is an auxiliary script to manage multiple git instances and was originally not a part of the assignment. `Build Expert` is the main script that is coded by the terms of the project.
 
-### :sparkles: **Features**
+### :sparkles: **Features** [🔝](#open_book-table-of-contents)
 
 #### _Bootstrapper_
 
@@ -79,7 +79,7 @@ This repository contains an assignment project developed under the [Patika.dev][
 > - Sets output directory to user-specified directory.
 > - Cleans the target directory of the maven project.
 
-### :gear: **Installation**
+### :gear: **Installation** [🔝](#open_book-table-of-contents)
 
 ##### _Automated_
 
@@ -95,7 +95,7 @@ This repository contains an assignment project developed under the [Patika.dev][
 3. Execute `bootstrap.sh` first to configure the machine settings.
 4. Run the scripts with the aliases configured or manually from the directories that are stated [**below**](#open_file_folder-directories).
 
-### :wrench: **Usage**
+### :wrench: **Usage** [🔝](#open_book-table-of-contents)
 
 - Built-in aliases are `gitbuddy` and `buildexpert`. You may execute them if you executed `bootstrap.sh` first.
 - Optionally, you may call the scripts from any directory with an acceptable arguments that are stated below.
@@ -121,7 +121,7 @@ OPTIONS:    ARGUMENTS:         DESCRIPTION:                             DEFAULT 
 [-h]                           Shows usage/help.
 ```
 
-### :computer: **Technologies**
+### :computer: **Technologies** [🔝](#open_book-table-of-contents)
 
 > - Linux
 > - Bash Scripting :heart:
@@ -129,14 +129,14 @@ OPTIONS:    ARGUMENTS:         DESCRIPTION:                             DEFAULT 
 > - Oracle VM VirtualBox
 > - Vagrant by HashiCorp
 
-### :open_file_folder: **Directories**
+### :open_file_folder: **Directories** [🔝](#open_book-table-of-contents)
 
 ```
 Scripts             : /opt/scripts
 Project Samples     : /mnt/project
 ```
 
-### :floppy_disk: **Submitted Assignment**
+### :floppy_disk: **Submitted Assignment** [🔝](#open_book-table-of-contents)
 
 _You may check out the submitted version of this project [here][@og-repo]._
 
